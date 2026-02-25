@@ -1,0 +1,7 @@
+{
+  "address": "127.0.0.1:28960",
+  "password": "your_rconpassword",
+  "debug": true,
+  "timeout_ms": 2000,
+  "quiet_ms": 180
+}
